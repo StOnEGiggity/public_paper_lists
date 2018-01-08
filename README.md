@@ -12,3 +12,4 @@
 - [Videos](videos.md)
 - [Vision_and_language](vision_and_language.md)
 - [self-supervised, related](x-supervised.md)
+- [semantic segmentation, related](semantic_segmentation.md)
